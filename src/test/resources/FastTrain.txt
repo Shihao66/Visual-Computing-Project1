@@ -1,0 +1,3 @@
+FastTrain
+Toronto,Ottawa,31
+Ottawa,Montreal,25
